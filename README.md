@@ -7,3 +7,4 @@ pytorch tutorial
     수학 계산, 선형 대수, 난수(random number) 등, 
     100가지 이상의 Tensor 연산을 확인하실 수 있습니다.
     ```
+- [*autograd.Function*](https://pytorch.org/docs/stable/autograd.html#function)
